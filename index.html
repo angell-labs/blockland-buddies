@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no,viewport-fit=cover">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Blockland">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<link rel="manifest" href="manifest.json">
+<link rel="apple-touch-icon" href="icon.png">
+<link rel="icon" href="icon.png">
+<title>Blockland Buddies</title>
+<link rel="stylesheet" href="style.css">
+</head><body>
+<div id="login" class="overlay hidden"></div>
+<div id="learnOv" class="hidden"></div>
+<div id="menu" class="hidden">
+  <h1>Blockland <span>Buddies</span></h1>
+  <p class="sub">Build, explore, and make friends!</p>
+  <div id="slots"></div>
+  <div id="avmaker" class="hidden overlay"></div>
+  <div id="kindPick" class="hidden overlay"></div>
+</div>
+<div id="hud" class="hidden">
+  <div id="cross">+</div>
+  <div id="topbar">
+    <button id="bMenu" class="sm">🏠</button>
+    <button id="bMode" class="sm">🎨 Creative</button>
+    <button id="bFly" class="sm">🕊️ Fly: on</button>
+    <button id="bShot" class="sm">📷</button>
+    <button id="bBuild" class="sm">🏠 Build</button>
+    <button id="bUndo" class="sm">↩️ Undo</button>
+    <button id="bMap" class="sm">🗺️ Map</button>
+    <button id="bLearn" class="sm">🎓</button>
+    <button id="bStuff" class="sm">🎒</button>
+    <button id="bView" class="sm">👀</button>
+    <button id="bEmote" class="sm hidden">😀</button>
+    <span id="roomTag" class="hidden"></span>
+    <span id="clock">☀️</span>
+  </div>
+  <div id="toast"></div>
+  <button id="updBanner" class="hidden green">✨ New version ready! Tap to refresh</button>
+  <canvas id="mini" width="160" height="160"></canvas>
+  <div id="mapView" class="hidden"><canvas id="mapCanvas" width="640" height="640"></canvas><div class="mapside"><p>Tap the map to zoom there!</p><p>🔺 You · 🔵 Friends · 🐶 Pets</p><div id="lmList"></div><button id="miniTog">Minimap</button><button class="red" id="mapClose">✖ Close</button></div></div>
+  <div id="joy"><div id="knob"></div></div>
+  <div id="rightBtns">
+    <button id="bBreak" class="big">⛏️<small>Break</small></button>
+    <button id="bPlace" class="big">🧱<small>Place</small></button>
+    <button id="bJump" class="big">⬆️<small>Jump</small></button>
+    <button id="bDown" class="big hidden">⬇️<small>Down</small></button>
+  </div>
+  <div id="hotbar"><button id="hbL" class="arrow">◀</button><div id="hbStrip"></div><button id="hbR" class="arrow">▶</button></div>
+  <div id="buildBar" class="hidden"><span id="bbName"></span><button id="bbRot" class="big">🔄<small>Turn</small></button><button id="bbOk" class="big green">✅<small>Build</small></button><button id="bbX" class="big red">✖️<small>Done</small></button></div>
+  <div id="panel" class="hidden"></div>
+  <div id="shot" class="hidden"><img id="shotImg"><p>Press and hold the picture to save it!</p><button class="sm" id="shotClose">Close</button></div>
+</div>
+<script src="vendor/peerjs.min.js"></script>
+<script src="p2p.js"></script>
+<script type="module" src="game.js"></script>
+</body></html>

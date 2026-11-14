@@ -1,0 +1,697 @@
+{
+ "words6": [
+  {
+   "w": "CAT",
+   "e": "🐱"
+  },
+  {
+   "w": "DOG",
+   "e": "🐶"
+  },
+  {
+   "w": "SUN",
+   "e": "☀️"
+  },
+  {
+   "w": "BUS",
+   "e": "🚌"
+  },
+  {
+   "w": "HAT",
+   "e": "👒"
+  },
+  {
+   "w": "FISH",
+   "e": "🐠"
+  },
+  {
+   "w": "TREE",
+   "e": "🌳"
+  },
+  {
+   "w": "STAR",
+   "e": "⭐"
+  },
+  {
+   "w": "CAKE",
+   "e": "🍰"
+  },
+  {
+   "w": "BOAT",
+   "e": "⛵"
+  },
+  {
+   "w": "MOON",
+   "e": "🌙"
+  },
+  {
+   "w": "FROG",
+   "e": "🐸"
+  },
+  {
+   "w": "BED",
+   "e": "🛏️"
+  },
+  {
+   "w": "PIG",
+   "e": "🐷"
+  },
+  {
+   "w": "BEE",
+   "e": "🐝"
+  },
+  {
+   "w": "EGG",
+   "e": "🥚"
+  },
+  {
+   "w": "CUP",
+   "e": "☕"
+  },
+  {
+   "w": "KEY",
+   "e": "🔑"
+  }
+ ],
+ "words9": [
+  {
+   "w": "enormous",
+   "m": "very, very big",
+   "s": "The volcano was ____ and touched the clouds."
+  },
+  {
+   "w": "tiny",
+   "m": "very small",
+   "s": "The ____ hut was too small to walk inside."
+  },
+  {
+   "w": "ancient",
+   "m": "very, very old",
+   "s": "The stone circle is ____, built long ago."
+  },
+  {
+   "w": "brave",
+   "m": "not giving up when something is hard",
+   "s": "The ____ surfer rode the giant wave."
+  },
+  {
+   "w": "curious",
+   "m": "wanting to learn or know more",
+   "s": "The ____ kitten explored the cave."
+  },
+  {
+   "w": "gentle",
+   "m": "soft and kind",
+   "s": "Be ____ when you pet the bunny."
+  },
+  {
+   "w": "journey",
+   "m": "a trip from one place to another",
+   "s": "Our ____ went from London to the cliffs."
+  },
+  {
+   "w": "habitat",
+   "m": "the natural home of an animal or plant",
+   "s": "The reef is the ____ of many fish."
+  },
+  {
+   "w": "erupt",
+   "m": "to burst out suddenly",
+   "s": "Lava can ____ from a volcano."
+  },
+  {
+   "w": "landmark",
+   "m": "a famous place that is easy to recognize",
+   "s": "Big Ben is a famous London ____."
+  },
+  {
+   "w": "protect",
+   "m": "to keep safe",
+   "s": "We ____ turtles by keeping beaches clean."
+  },
+  {
+   "w": "shimmer",
+   "m": "to shine with a soft, wavy light",
+   "s": "The crystals ____ in the cave."
+  }
+ ],
+ "spell": [
+  "CAT",
+  "DOG",
+  "SUN",
+  "BUS",
+  "HAT",
+  "FISH",
+  "TREE",
+  "STAR",
+  "CAKE",
+  "BOAT",
+  "MOON",
+  "FROG",
+  "BED",
+  "PIG",
+  "BEE",
+  "EGG",
+  "CUP",
+  "KEY",
+  "HOME",
+  "LOVE",
+  "PET",
+  "SURF",
+  "WAVE",
+  "LAVA",
+  "TEA",
+  "CASTLE",
+  "CLOCK",
+  "BRIDGE",
+  "ALOHA",
+  "HONU",
+  "LONDON",
+  "HAWAII",
+  "PIANO",
+  "BOOK",
+  "MOM",
+  "DAD",
+  "FUN",
+  "RAIN",
+  "SNOW"
+ ],
+ "landmarks": {
+  "Big Ben": {
+   "f6": "Big Ben is a giant bell inside a tall clock tower in London. It goes BONG!",
+   "f9": "'Big Ben' is really the name of the huge bell inside the clock tower in London. The tower was finished in 1859, and the bell weighs about as much as two elephants!",
+   "v": {
+    "w": "tower",
+    "m": "a tall, narrow building"
+   }
+  },
+  "Parliament": {
+   "f6": "This big building by the river is where leaders meet to make rules.",
+   "f9": "The Houses of Parliament sit beside the River Thames. People chosen by voters meet here to talk about and make the country's laws.",
+   "v": {
+    "w": "government",
+    "m": "the group of people who run a country"
+   }
+  },
+  "Tower Bridge": {
+   "f6": "Tower Bridge can open in the middle to let tall ships go by!",
+   "f9": "Tower Bridge opened in 1894. Its road splits and lifts up in the middle so tall ships can sail through on the Thames.",
+   "v": {
+    "w": "bascule",
+    "m": "a bridge part that swings up like a seesaw"
+   }
+  },
+  "River Thames": {
+   "f6": "The River Thames flows right through London.",
+   "f9": "The River Thames is England's most famous river. It flows through London and out to the North Sea.",
+   "v": {
+    "w": "river",
+    "m": "a large stream of water that flows to the sea"
+   }
+  },
+  "Royal Palace": {
+   "f6": "A palace is a giant home for a king or queen.",
+   "f9": "London's royal palace has hundreds of rooms. Guards in tall fuzzy hats stand outside, and a flag shows when the King is home.",
+   "v": {
+    "w": "palace",
+    "m": "a huge, grand home for a royal family"
+   }
+  },
+  "Big Wheel": {
+   "f6": "The Big Wheel goes round slowly so you can see far away!",
+   "f9": "London's giant observation wheel turns so slowly that people step on while it moves. From the top you can see across the whole city.",
+   "v": {
+    "w": "observation",
+    "m": "watching carefully"
+   }
+  },
+  "Double-Decker Bus": {
+   "f6": "A double-decker bus has two floors! Sit upstairs to see more.",
+   "f9": "London's red double-decker buses have two levels. They have carried passengers around the city for about 100 years.",
+   "v": {
+    "w": "passenger",
+    "m": "a person riding in a vehicle"
+   }
+  },
+  "Castle": {
+   "f6": "Castles have thick stone walls to keep people safe.",
+   "f9": "England has many castles. Windsor Castle is the oldest castle in the world that people still live in, and it's over 900 years old!",
+   "v": {
+    "w": "fortress",
+    "m": "a strong, protected building"
+   }
+  },
+  "Village Green": {
+   "f6": "A village green is a grassy park where everyone can play.",
+   "f9": "Many English villages have a 'green', a shared grassy space for fairs, games of cricket, and celebrations.",
+   "v": {
+    "w": "community",
+    "m": "a group of people who live in the same place"
+   }
+  },
+  "White Cliffs": {
+   "f6": "These cliffs are white because they are made of chalk!",
+   "f9": "The White Cliffs of Dover are made of chalk, which formed from tiny sea creatures' shells over millions of years.",
+   "v": {
+    "w": "chalk",
+    "m": "a soft white rock"
+   }
+  },
+  "Lighthouse": {
+   "f6": "A lighthouse shines a bright light so boats stay safe at night.",
+   "f9": "Lighthouses flash light out to sea so sailors can find their way and stay away from rocks.",
+   "v": {
+    "w": "beacon",
+    "m": "a light or signal that guides people"
+   }
+  },
+  "Volcano": {
+   "f6": "Hawaii's islands were made by volcanoes!",
+   "f9": "Every Hawaiian island was built by volcanoes pushing up lava from the ocean floor. Mauna Kea is taller than Mount Everest if you measure from the sea floor!",
+   "v": {
+    "w": "volcano",
+    "m": "a mountain where hot melted rock comes out"
+   }
+  },
+  "Diamond Head": {
+   "f6": "Diamond Head is an old volcano crater near the beach.",
+   "f9": "Diamond Head is a crater from a volcano that erupted about 300,000 years ago. Sailors once thought its shiny rocks were diamonds!",
+   "v": {
+    "w": "crater",
+    "m": "a big bowl-shaped hole"
+   }
+  },
+  "Waikiki Beach": {
+   "f6": "Waikiki is a famous beach for swimming and surfing.",
+   "f9": "Waikiki means 'spouting fresh water' in Hawaiian. Hawaiian royalty surfed here long ago, and now visitors come from all over the world.",
+   "v": {
+    "w": "tradition",
+    "m": "something people have done for a long time"
+   }
+  },
+  "Beachfront Hotels": {
+   "f6": "Hotels are where visitors sleep on vacation.",
+   "f9": "Tall hotels line Waikiki Beach so visitors can wake up and see the ocean from their balconies.",
+   "v": {
+    "w": "visitor",
+    "m": "a person who comes to see a place"
+   }
+  },
+  "Duke's": {
+   "f6": "This beach restaurant is named after Duke, a famous surfer and swimmer.",
+   "f9": "Duke Kahanamoku was a Hawaiian swimmer who won Olympic gold medals and shared surfing with the world. He's called the father of modern surfing.",
+   "v": {
+    "w": "champion",
+    "m": "the winner of a contest"
+   }
+  },
+  "Kalakaua Shops": {
+   "f6": "This street is full of fun shops.",
+   "f9": "Kalakaua Avenue is Waikiki's main street, named after King Kalakaua, Hawaii's 'Merrie Monarch' who loved music and hula.",
+   "v": {
+    "w": "avenue",
+    "m": "a wide street"
+   }
+  },
+  "Surf Break": {
+   "f6": "A surf break is where waves are good for surfing.",
+   "f9": "A surf break is a spot where waves curl and break in a way that's good for surfing, often over a reef or sandbar.",
+   "v": {
+    "w": "reef",
+    "m": "a ridge of rock or coral near the surface of the sea"
+   }
+  },
+  "North Shore": {
+   "f6": "In winter the North Shore has giant waves!",
+   "f9": "Oahu's North Shore gets huge winter waves, sometimes taller than a house, and the world's best surfers come to ride them.",
+   "v": {
+    "w": "swell",
+    "m": "big, rolling ocean waves that come from far away"
+   }
+  },
+  "Shrimp Truck": {
+   "f6": "Food trucks sell yummy food right by the beach.",
+   "f9": "North Shore shrimp trucks became famous for garlic shrimp served with rice. Food trucks are like tiny kitchens on wheels.",
+   "v": {
+    "w": "menu",
+    "m": "a list of food you can order"
+   }
+  },
+  "Snorkel Bay": {
+   "f6": "Snorkelers float and look at fish under the water.",
+   "f9": "Hanauma Bay is a curved bay made from an old volcano crater. Its coral reef is protected, so fish and turtles are safe there.",
+   "v": {
+    "w": "marine",
+    "m": "having to do with the sea"
+   }
+  },
+  "Koolau Mountains": {
+   "f6": "These green mountains have pointy ridges like folded paper.",
+   "f9": "The Koolau Range is what's left of an ancient volcano. Rain and wind carved its steep, pleated green cliffs.",
+   "v": {
+    "w": "erosion",
+    "m": "wearing away of rock by water and wind"
+   }
+  },
+  "Lagoon & Reef": {
+   "f6": "A lagoon is calm water protected by a reef.",
+   "f9": "A reef can block big waves and make a calm lagoon behind it, a safe home for baby fish.",
+   "v": {
+    "w": "lagoon",
+    "m": "calm water separated from the sea"
+   }
+  },
+  "Waterfall": {
+   "f6": "Water falls down the cliff into a pool.",
+   "f9": "Hawaii's mountains catch lots of rain, so waterfalls tumble down the green cliffs into pools below.",
+   "v": {
+    "w": "cascade",
+    "m": "a small waterfall"
+   }
+  },
+  "Rainforest": {
+   "f6": "A rainforest gets lots of rain, so plants grow big!",
+   "f9": "Rainforests get so much rain that plants grow in layers, from the forest floor all the way up to the treetops.",
+   "v": {
+    "w": "canopy",
+    "m": "the top layer of leaves in a forest"
+   }
+  },
+  "Lei Garden": {
+   "f6": "A lei is a necklace of flowers that says 'welcome' and 'I love you'.",
+   "f9": "In Hawaii, a lei is given to show love, welcome, or congratulations. May 1st is Lei Day!",
+   "v": {
+    "w": "aloha",
+    "m": "a Hawaiian word for hello, goodbye, and love"
+   }
+  },
+  "Tiki Hut": {
+   "f6": "A tiki hut has a grass roof to make shade.",
+   "f9": "Thatched huts use dried leaves and grasses for roofs, which keep out sun and rain.",
+   "v": {
+    "w": "thatch",
+    "m": "a roof made of dried plants"
+   }
+  }
+ },
+ "journal": {
+  "puppy": {
+   "n": "Puppy",
+   "f6": "Puppies love to play and wag their tails when happy.",
+   "f9": "Dogs can smell thousands of times better than people. A wagging tail often means a happy dog."
+  },
+  "kitten": {
+   "n": "Kitten",
+   "f6": "Kittens purr when they feel happy and safe.",
+   "f9": "Cats use their whiskers to feel if they can fit through a space."
+  },
+  "bunny": {
+   "n": "Bunny",
+   "f6": "Bunnies hop and have long ears.",
+   "f9": "Rabbits' teeth never stop growing, so they chew a lot to keep them short."
+  },
+  "dragon": {
+   "n": "Baby Dragon (pretend!)",
+   "f6": "Dragons are pretend, but they're fun to imagine!",
+   "f9": "Dragons are mythical creatures found in stories from many cultures, like Wales and China."
+  },
+  "turtle": {
+   "n": "Green Sea Turtle (Honu)",
+   "f6": "In Hawaii, turtles are called honu. Give them space!",
+   "f9": "Honu can hold their breath for hours while resting. In Hawaii it's the law to stay at least 10 feet away from them."
+  },
+  "fish": {
+   "n": "Reef Fish",
+   "f6": "Bright reef fish live around coral.",
+   "f9": "Hawaii's state fish is the humuhumunukunukuapua'a, a reef triggerfish!"
+  },
+  "glowsnail": {
+   "n": "Glow Snail (pretend!)",
+   "f6": "Some living things really can glow in the dark!",
+   "f9": "Glowing living things use 'bioluminescence', like fireflies and some mushrooms."
+  },
+  "nessie": {
+   "n": "River Creature (legend)",
+   "f6": "People tell stories of a shy creature in a lake in Scotland.",
+   "f9": "The Loch Ness Monster is a legend from Scotland. No one has ever proven it's real, but it's a fun mystery!"
+  },
+  "jelly": {
+   "n": "Grumpy Jelly (pretend!)",
+   "f6": "Jellies are pretend night friends in Blockland.",
+   "f9": "Real jellyfish have no brain or bones, and they're mostly water!"
+  },
+  "ghost": {
+   "n": "Sleepy Ghost (pretend!)",
+   "f6": "Ghosts here are just sleepy pretend friends.",
+   "f9": "Many stories have friendly ghosts. In Blockland they only want naps."
+  },
+  "b7": {
+   "n": "Leaves",
+   "f6": "Leaves use sunlight to make food for the tree.",
+   "f9": "Leaves use photosynthesis to turn sunlight, water and air into food, and they give us oxygen to breathe."
+  },
+  "b6": {
+   "n": "Tree Trunk",
+   "f6": "You can count rings inside a tree to learn its age.",
+   "f9": "Each ring inside a tree trunk usually means one year of growth."
+  },
+  "b28": {
+   "n": "Lava Rock",
+   "f6": "Lava is melted rock. When it cools, it becomes hard rock.",
+   "f9": "When lava cools it becomes basalt, the dark rock that makes up the Hawaiian islands."
+  },
+  "b29": {
+   "n": "Crystal",
+   "f6": "Crystals grow in pretty shapes.",
+   "f9": "Crystals form when atoms line up in repeating patterns, like salt, snowflakes, and quartz."
+  },
+  "b4": {
+   "n": "Sand",
+   "f6": "Sand is made of tiny bits of rock and shells.",
+   "f9": "Some Hawaiian beaches have black sand made from lava, or even green sand made from a crystal called olivine!"
+  },
+  "b3": {
+   "n": "Stone",
+   "f6": "Stone is hard rock from the ground.",
+   "f9": "Rocks slowly change over millions of years in the rock cycle."
+  },
+  "b20": {
+   "n": "Snow",
+   "f6": "Snow is frozen water falling from clouds.",
+   "f9": "Every snowflake has six sides, but no two look exactly alike."
+  }
+ },
+ "blueprints": {
+  "6": [
+   {
+    "t": "tower",
+    "n": 5,
+    "txt": "Build a tower 5 blocks tall!"
+   },
+   {
+    "t": "count",
+    "n": 7,
+    "txt": "Place exactly 7 blocks anywhere."
+   },
+   {
+    "t": "tower",
+    "n": 3,
+    "txt": "Build a little tower 3 blocks tall."
+   },
+   {
+    "t": "wall",
+    "w": 3,
+    "h": 2,
+    "txt": "Build a wall 3 blocks wide and 2 blocks tall."
+   }
+  ],
+  "9": [
+   {
+    "t": "wall",
+    "w": 4,
+    "h": 3,
+    "txt": "Build a wall 4 wide and 3 tall. How many blocks is that? (4 × 3)"
+   },
+   {
+    "t": "floor",
+    "w": 3,
+    "d": 5,
+    "txt": "Build a flat floor 3 by 5. Its area is 15 squares!"
+   },
+   {
+    "t": "tower",
+    "n": 12,
+    "txt": "Build a tower that is 3 × 4 blocks tall."
+   },
+   {
+    "t": "count",
+    "n": 24,
+    "txt": "Place exactly 24 blocks (that's 6 groups of 4)."
+   },
+   {
+    "t": "floor",
+    "w": 4,
+    "d": 4,
+    "txt": "Build a square floor with area 16."
+   }
+  ]
+ },
+ "shop": [
+  {
+   "k": "seashell",
+   "n": "Seashell",
+   "e": "🐚",
+   "p": 2,
+   "type": "decor"
+  },
+  {
+   "k": "shaveice",
+   "n": "Shave Ice Stand",
+   "e": "🍧",
+   "p": 3,
+   "type": "decor"
+  },
+  {
+   "k": "pineapple",
+   "n": "Pineapple",
+   "e": "🍍",
+   "p": 4,
+   "type": "decor"
+  },
+  {
+   "k": "torch",
+   "n": "Tiki Torch",
+   "e": "🔥",
+   "p": 4,
+   "type": "decor"
+  },
+  {
+   "k": "toyturtle",
+   "n": "Toy Turtle",
+   "e": "🐢",
+   "p": 5,
+   "type": "decor"
+  },
+  {
+   "k": "lei",
+   "n": "Flower Lei",
+   "e": "🌸",
+   "p": 6,
+   "type": "hat"
+  },
+  {
+   "k": "sunhat",
+   "n": "Sun Hat",
+   "e": "👒",
+   "p": 7,
+   "type": "hat"
+  },
+  {
+   "k": "umbrella",
+   "n": "Beach Umbrella",
+   "e": "⛱️",
+   "p": 8,
+   "type": "decor"
+  },
+  {
+   "k": "ukulele",
+   "n": "Ukulele",
+   "e": "🪕",
+   "p": 9,
+   "type": "decor"
+  },
+  {
+   "k": "icecream",
+   "n": "Ice Cream Cart",
+   "e": "🍦",
+   "p": 10,
+   "type": "decor"
+  },
+  {
+   "k": "surfboard",
+   "n": "Surfboard",
+   "e": "🏄",
+   "p": 12,
+   "type": "decor"
+  }
+ ],
+ "melodies": [
+  {
+   "title": "Twinkle Twinkle Little Star",
+   "notes": "C C G G A A G F F E E D D C",
+   "info": "This tune is over 200 years old! The same melody is used for the ABC song.",
+   "place": "France / England"
+  },
+  {
+   "title": "Mary Had a Little Lamb",
+   "notes": "E D C D E E E D D D E G G",
+   "info": "This song was written in America in the 1830s about a real girl whose lamb followed her to school.",
+   "place": "USA"
+  },
+  {
+   "title": "Hot Cross Buns",
+   "notes": "E D C E D C C C C C D D D D E D C",
+   "info": "Long ago, bakers in England sang this to sell sweet buns on the street.",
+   "place": "England"
+  },
+  {
+   "title": "London Bridge",
+   "notes": "G A G F E F G D E F E F G",
+   "info": "An old English song about the bridge over the River Thames.",
+   "place": "England"
+  },
+  {
+   "title": "Aloha 'Oe (first notes)",
+   "notes": "E D C D E E E D C D C",
+   "info": "Written by Queen Liliʻuokalani, Hawaii's last queen, around 1878. It's a song of farewell and love.",
+   "place": "Hawaii"
+  }
+ ],
+ "quests": [
+  {
+   "id": "meetBigBen",
+   "type": "meet",
+   "world": "england",
+   "lm": "Big Ben",
+   "txt": "Meet your friend at Big Ben!",
+   "reward": 3
+  },
+  {
+   "id": "meetTower",
+   "type": "meet",
+   "world": "england",
+   "lm": "Tower Bridge",
+   "txt": "Meet on Tower Bridge together!",
+   "reward": 3
+  },
+  {
+   "id": "meetDukes",
+   "type": "meet",
+   "world": "hawaii",
+   "lm": "Duke's",
+   "txt": "Meet your friend at Duke's!",
+   "reward": 3
+  },
+  {
+   "id": "meetVolcano",
+   "type": "meet",
+   "world": "hawaii",
+   "lm": "Volcano",
+   "txt": "Climb the volcano together!",
+   "reward": 3
+  },
+  {
+   "id": "build10",
+   "type": "build",
+   "n": 10,
+   "txt": "Team build: each of you places 10 blocks!",
+   "reward": 4
+  },
+  {
+   "id": "emote",
+   "type": "emote",
+   "txt": "Say hi to each other with the 😀 button!",
+   "reward": 2
+  }
+ ]
+}
